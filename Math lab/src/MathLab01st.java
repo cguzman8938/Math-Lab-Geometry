@@ -99,7 +99,7 @@ public class MathLab01st
 	}
 }
 
-
+/*
 class Geometry
 {
     // 2D Perimeters
@@ -218,4 +218,4 @@ class Geometry
 }
 
 	
-	
+	*/
